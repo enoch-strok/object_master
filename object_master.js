@@ -71,3 +71,5 @@ console.log(task_7);
 console.log('///////////////////////////// # 8 /////////////////////////////');
 const task_8 = pokemon.filter( p => p.types.includes("normal") )
 console.log(task_8.length);
+
+//test change
